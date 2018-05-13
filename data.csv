@@ -1,0 +1,11 @@
+number,phrase,sentiment
+0,le ciel est étoilé,enthousiaste
+1,il fait trop chaud,colere
+2,j'ai perdu mon chien,triste
+3,le ciel est gris,triste
+4,c'est un scandale !,colere
+5,la pluie est froide,triste
+6,je suis triste,triste
+7,Le chef de bord SNCF du TGV 6067 qui pete un câble au micro car des gens envoient des tweets à la @SNCF comme quoi il fait trop froid 😂😂,enthousiaste
+8,On s'habitue à la grève de la SNCF 2 jours sur 5 comme on s'habitue à l'arthrose 1 jour sur 2. En maugréant.,colere
+9,les mecs réduisent pas la dépense publique déjà monstrueuse d'un seul centime mais faudrait que l'on fasse des efforts pour la #SNCF ... MAIS PUTAIN ALLEZ VOUS FAIRE FOUTRE !!!,colere
